@@ -22,3 +22,4 @@ fp-info-cache
 *.ses
 # Local Settings
 *.kicad_prl
+/jlcpcb
