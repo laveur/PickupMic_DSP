@@ -1,2 +1,4 @@
 (sym_lib_table
+  (version 7)
+  (lib (name "PickupMic_DSP")(type "KiCad")(uri "${KIPRJMOD}/PickupMic_DSP.kicad_sym")(options "")(descr ""))
 )
